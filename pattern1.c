@@ -1,11 +1,13 @@
 //Prints a pattern
-Input   : 5
-Output  : 1 6 10 13 15
-          2 7 11 14
-          3 8 12
-          4 9
-          5
-          
+/*       
+          Input   : 5
+          Output  : 1 6 10 13 15
+                    2 7 11 14
+                    3 8 12
+                    4 9
+                    5
+*/
+
 #include<stdio.h>
 #include <stdlib.h>
 
