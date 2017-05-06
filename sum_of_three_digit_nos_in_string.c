@@ -1,6 +1,8 @@
 //Finds the sum of three digit numbers embedded in the string
-Input   : Ihave323apples12mangoesand121oranges
-Output  : 444           //Sum of 323 and 121
+/*
+    Input   : Ihave323apples12mangoesand121oranges
+    Output  : 444           (Sum of 323 and 121)
+*/
 
 #include<stdio.h>
 #include<stdlib.h>
