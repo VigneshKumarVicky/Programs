@@ -1,12 +1,14 @@
 //Prints a pattern
-Input    : VIGNESH
-Output   : ******N      //Starts from middle character of odd length string
-           *****NE
-           ****NES
-           ***NESH
-           **NESHV
-           *NESHVI
-           NESHVIG
+/*
+          Input    : VIGNESH
+          Output   : ******N      (Starts from middle character of odd length string)
+                     *****NE
+                     ****NES
+                     ***NESH
+                     **NESHV
+                     *NESHVI
+                     NESHVIG
+*/                    
            
 #include<stdio.h>
 #include <stdlib.h>
