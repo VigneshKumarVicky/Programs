@@ -1,11 +1,12 @@
 //Finds X and Y Position based on direction
-Input   : 2 2
-          S4
-Output  : 2 -2
-Input   : 2 2
-          S4 N3 E9 W2
-Output  : 9 1
-
+/*	Input   : 2 2
+        	  S4
+	Output  : 2 -2
+	
+	Input   : 2 2
+        	  S4 N3 E9 W2
+	Output  : 9 1	
+*/
 
 #include<stdio.h>
 #include <stdlib.h>
