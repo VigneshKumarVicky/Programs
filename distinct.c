@@ -1,8 +1,9 @@
 //Finds the No. of Distinct elements in two arrays
-/*        Input   : 3 4
-                    1 4 8     //First Array
-                    4 7 9 1   //Second Array       
-          Output  : 3         //No. of Distinct elements
+/*        
+          Input   : 3 4
+                    1 4 8     (First Array)
+                    4 7 9 1   (Second Array)       
+          Output  : 3         (No. of Distinct elements))
 */
 
 #include<stdio.h>
