@@ -1,11 +1,14 @@
 //Finding Wrong No. in th Arithmetic Series
-Input   : 2 7 8 11 14 17
-Output  : 7
-Input   : 2 5 8 11 14 18
-Output  : 18
-Input   : 1 5 8 11 14 17
-Output  : 1
-
+/*
+    Input   : 2 7 8 11 14 17
+    Output  : 7
+    
+    Input   : 2 5 8 11 14 18
+    Output  : 18
+    
+    Input   : 1 5 8 11 14 17
+    Output  : 1
+*/
 
 #include<stdio.h>
 #include <stdlib.h>
