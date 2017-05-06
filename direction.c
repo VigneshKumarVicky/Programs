@@ -1,5 +1,6 @@
 //Finds X and Y Position based on direction
-/*	Input   : 2 2
+/*	
+	Input   : 2 2
         	  S4
 	Output  : 2 -2
 	
