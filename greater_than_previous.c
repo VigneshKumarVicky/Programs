@@ -1,5 +1,6 @@
 //Prints the No. only if it is greater than previous numbers
-/*        Input   : 7
+/*        
+          Input   : 7
                     1 3 2 7 14 12 17
           Output  : 1 3 7 14 17
 */
